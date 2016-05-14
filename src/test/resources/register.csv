@@ -1,0 +1,4 @@
+//*[@id='gigya-register-screen']//*[@name='email'],dmitriy.grayvoronskiy+STAMP@gmail.com
+//*[@id='gigya-register-screen']//*[@name='password'],121212
+//*[@id='gigya-register-screen']//*[@name='zip'],93999
+//*[@id='gigya-register-screen']//*[@class='gigya-input-submit'],

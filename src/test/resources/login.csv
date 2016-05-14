@@ -1,0 +1,2 @@
+//*[@id='gigya-login-screen']//*[@name='username'],email
+//*[@id='gigya-login-screen']//*[@name='password'],121212
